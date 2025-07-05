@@ -1,1 +1,1 @@
-# Diabetes-prediction_AICTE
+# Diabetes Disease-prediction_AICTE
